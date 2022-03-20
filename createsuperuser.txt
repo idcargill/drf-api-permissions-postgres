@@ -1,0 +1,9 @@
+python manage.py createsuperuser
+
+
+idcargill@gmail.com
+T1gerface
+
+
+
+python manage.py createsuperuser --username=ianc --email=idcargill@gmail.com
