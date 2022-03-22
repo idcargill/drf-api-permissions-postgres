@@ -6,5 +6,5 @@ from duck_blog.models import BlogPost
 
 class BlogPostSerializer(serializers.ModelSerializer):
   class Meta:
-    fields    = ('title', 'blog', 'create_date', 'updated_date')
+    fields    = ('title', 'text_content', 'create_date')
     model     = BlogPost

@@ -1,4 +1,3 @@
 # Django Blog api with permissions
 
-WIP
-
+Blog post api
